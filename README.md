@@ -14,14 +14,15 @@ Summary: scandir, a better directory iterator and faster os.walk()
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/scandir-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/scandir-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/scandir-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/scandir-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/scandir-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/scandir-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/scandir-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/scandir-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/scandir/badges/version.svg)](https://anaconda.org/conda-forge/scandir)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/scandir/badges/downloads.svg)](https://anaconda.org/conda-forge/scandir)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-scandir-green.svg)](https://anaconda.org/conda-forge/scandir) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/scandir.svg)](https://anaconda.org/conda-forge/scandir) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/scandir.svg)](https://anaconda.org/conda-forge/scandir) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/scandir.svg)](https://anaconda.org/conda-forge/scandir) |
 
 Installing scandir
 ==================
