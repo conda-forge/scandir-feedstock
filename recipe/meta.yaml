@@ -1,5 +1,5 @@
-{% set version = "1.8" %}
-{% set sha256 = "8d5011d3a99042c4d90e8adda0052d4475aae3d57bb927012267a6c59186d870" %}
+{% set version = "1.9.0" %}
+{% set sha256 = "44975e209c4827fc18a3486f257154d34ec6eaec0f90fef0cca1caa482db7064" %}
 
 package:
   name: scandir
