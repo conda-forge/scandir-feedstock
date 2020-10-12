@@ -29,7 +29,7 @@ test:
 
 about:
   home: https://github.com/benhoyt/scandir
-  license: BSD 3-Clause
+  license: BSD-3-Clause
   license_file: LICENSE.txt
   summary: 'scandir, a better directory iterator and faster os.walk()'
 
