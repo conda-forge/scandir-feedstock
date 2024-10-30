@@ -9,6 +9,8 @@ source:
   fn: scandir-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/s/scandir/scandir-{{ version }}.tar.gz
   sha256: {{ sha256 }}
+  patches:
+    - setup.patch
 
 build:
   number: 8
